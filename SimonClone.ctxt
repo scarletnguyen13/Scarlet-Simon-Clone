@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ I\ used\ the\ ArrayList\ instead\ of\ Array\ because\ it's\ easier\ to\ add\ elements\ into\ the\ array\ in\ ArrayList\r\n\ \=\=>\ ArrayList\ is\ more\ suitable\ to\ add\ and\ store\ new\ values\r\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=event
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=event
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=event
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ mainGameLoop()
+comment7.params=level
+comment7.target=void\ playSound(int)
+comment7.text=\r\n\ This\ method\ plays\ the\ sound\ patterns\ in\ the\ game\r\n
+numComments=8
